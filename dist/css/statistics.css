@@ -1,0 +1,13 @@
+.statistics {
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  z-index: 99;
+  width: 240px;
+  padding: 10px;
+  background: #ffa5a5;
+  border-radius: 5px;
+  font-size: 13px; }
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0YXRpc3RpY3Muc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFVBQVU7RUFDVixNQUFNO0VBQ04sS0FBSztFQUNMLFNBQVM7RUFDVCxPQUFPO0VBQ1AsU0FBUztFQUNULFlBQVk7RUFDWixlQUFlO0VBQ2YsV0FBVyIsImZpbGUiOiJzdGF0aXN0aWNzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5zdGF0aXN0aWNzXG4gIHBvc2l0aW9uOiBmaXhlZFxuICBsZWZ0OiAxMHB4XG4gIHRvcDogMTBweFxuICB6LWluZGV4OiA5OVxuICB3aWR0aDogMjQwcHhcbiAgcGFkZGluZzogMTBweFxuICBiYWNrZ3JvdW5kOiAjZmZhNWE1XG4gIGJvcmRlci1yYWRpdXM6IDVweFxuICBmb250LXNpemU6IDEzcHhcbiJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ== */
