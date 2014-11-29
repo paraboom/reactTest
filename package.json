@@ -17,6 +17,9 @@
     "url": "https://github.com/paraboom/reactTest/issues"
   },
   "homepage": "https://github.com/paraboom/reactTest",
+  "dependencies": {
+    "express": "^4.10.4"
+  },
   "devDependencies": {
     "express": "^4.10.4",
     "gulp": "^3.8.10",
