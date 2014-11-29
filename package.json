@@ -4,6 +4,7 @@
   "description": "reactTest =========",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/paraboom/reactTest",
   "devDependencies": {
+    "express": "^4.10.4",
     "gulp": "^3.8.10",
     "gulp-browserify": "^0.5.0",
     "gulp-concat": "^2.4.2",
