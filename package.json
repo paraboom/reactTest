@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/paraboom/reactTest",
   "dependencies": {
+    "es5-shim": "^4.0.5",
     "express": "^4.10.4"
   },
   "devDependencies": {
