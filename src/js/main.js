@@ -14,7 +14,6 @@
   while (method = methods.pop()) con[method] = con[method] || dummy;
 })(this.console = this.console || {}); // Using `this` for web workers.
 
-var es5shim = require('es5-shim');
 var React = require('react/addons');
 var Container = require('./components/container');
 
